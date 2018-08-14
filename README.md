@@ -4,7 +4,7 @@
 
 ## 📝 Description
 
-WNS is the EOS Name Service, a distributed, open, and extensible naming system based on the EOS blockchain.
+EOSNS is the EOS Name Service, a distributed, open, and extensible naming system based on the EOS blockchain.
 
 ## 📚 Documents
 
