@@ -1,4 +1,4 @@
-# EOS Name Service
+![EOS Name Service](./assets/title.png)
 
 > 📖🔍 Documents of the EOS Name Service.
 
